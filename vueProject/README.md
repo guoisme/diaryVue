@@ -2,20 +2,20 @@
 
 > A Vue.js project
 
-#分别在vue项目与node项目中安装依赖
+# 分别在vue项目与node项目中安装依赖
 ```
 npm init
 ```
-#运行vue项目
+# 运行vue项目
 ```
 npm run dev
 //打开localhost:8080
 ```
-#运行node项目：
+# 运行node项目：
 ```
 npm start
 ```
-#引入jq、bootstrap
+# 引入jq、bootstrap
 1、安装jq、bootstrap
 ```
 npm install jquery@1.11.3 --save-dev
